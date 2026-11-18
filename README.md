@@ -1,5 +1,3 @@
-# sonoff-zbdongle-e-usb-recovery
-Практическое исследование восстановления SONOFF ZBDongle-E после перезагрузки Raspberry Pi
 # SONOFF ZBDongle-E — USB Recovery
 
 **Практическое исследование восстановления Zigbee-координатора SONOFF ZBDongle-E после перезагрузки Raspberry Pi без физического переподключения USB.**
