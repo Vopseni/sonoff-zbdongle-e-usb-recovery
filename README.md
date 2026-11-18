@@ -49,7 +49,7 @@ sudo usbreset 1a86:55d4
 Полученный результат:
 
 ```text
-Resetting SONOFF Zigbee 3.0 USB Dongle Plus V2 ... ok
+    Resetting SONOFF Zigbee 3.0 USB Dongle Plus V2 ... ok
 ```
 
 17 ноября 2026 года эксперимент №5 подтвердил возможность восстановления координатора после перезагрузки Raspberry Pi без физического переподключения USB.
